@@ -11,9 +11,6 @@ function setHeight(the_selector) {
 }
 
 $(document).ready(function() {
-    // Setting responsive videos
-    setrespvideos();
-
     $(window).resize(function(){
         // Same height containers
         var same_height_counter = 0;
