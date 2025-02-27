@@ -422,20 +422,4 @@ footer ul li a {
     .header__menu ul li a {
 	    padding: 60px 15px 0 15px;
 	}
-	.header__menu ul li a::after {
-		background: #fff;
-		bottom: 0;
-		content: '';
-		display: none;
-		height: 4px;
-		left: 0;
-		position: absolute;
-		width: 100%;
-	}
-	.header__menu ul li a:hover::after {
-		display: block;
-	}
-	.header__menu ul li a:focus::after {
-		background: #c12f77;
-	}
 }
