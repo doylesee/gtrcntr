@@ -12,6 +12,8 @@ Figma Designs:
 
 And here's the final HTML build: https://doylesee.github.io/gtrcntr
 
+<p><a href="https://github.com/doylesee/gtrcntr"><img src="https://doylesee.github.io/gtrcntr/thumbnail.jpg" /></a></p>
+
 <br />
 
 ## Implementation
