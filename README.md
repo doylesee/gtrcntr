@@ -6,11 +6,11 @@
 </pre>
 
 Figma Designs:
-<a href="https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1" target="_blank">Dev Mode</a>
+<strong><a href="https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1" target="_blank">Dev Mode</a></strong>
  | 
-<a href="https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&t=Tx32m6sglf9u9eJr-1" target="_blank">Prototype</a>
+<strong><a href="https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&t=Tx32m6sglf9u9eJr-1" target="_blank">Prototype</a></strong>
 
-And here's the final HTML build: https://doylesee.github.io/gtrcntr
+And here's the final HTML build: <strong><a href="https://doylesee.github.io/gtrcntr">doylesee.github.io/gtrcntr</a></strong>
 
 <p><a href="https://doylesee.github.io/gtrcntr"><img src="https://doylesee.github.io/gtrcntr/thumbnail.jpg" /></a></p>
 
