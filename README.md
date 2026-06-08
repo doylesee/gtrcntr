@@ -6,13 +6,13 @@
 </pre>
 
 Figma Designs:
-<strong><a href="https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1" target="_blank">Dev Mode</a></strong>
+<strong><a href="https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1" target="_blank" rel="noopener noreferrer">Dev Mode</a></strong>
  | 
-<strong><a href="https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&t=Tx32m6sglf9u9eJr-1" target="_blank">Prototype</a></strong>
+<strong><a href="https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&t=Tx32m6sglf9u9eJr-1" target="_blank" rel="noopener noreferrer">Prototype</a></strong>
 
-And here's the final HTML build: <strong><a href="https://doylesee.github.io/gtrcntr">doylesee.github.io/gtrcntr</a></strong>
+And here's the final HTML build: <strong><a href="https://doylesee.github.io/gtrcntr" rel="noopener noreferrer">doylesee.github.io/gtrcntr</a></strong>
 
-<p><a href="https://doylesee.github.io/gtrcntr"><img src="https://doylesee.github.io/gtrcntr/thumbnail.jpg" /></a></p>
+<p><a href="https://doylesee.github.io/gtrcntr" rel="noopener noreferrer"><img src="https://doylesee.github.io/gtrcntr/thumbnail.jpg" /></a></p>
 
 <br />
 
