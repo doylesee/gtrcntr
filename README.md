@@ -5,7 +5,7 @@
 <b>Tools:</b>     Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-**[Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1)**
+**[Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=0-1&m=dev&t=L0NLAE28NzADuqFX-1)**
 &nbsp;&nbsp;
 **[Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1)**
 &nbsp;&nbsp;
@@ -22,4 +22,4 @@ To execute this, I first jumped into Figma to create the designs. Once the visua
 ## Results
 This quick, proactive build served as a fantastic visual proof of concept that demonstrated my ability to quickly interpret a major brand's identity and turn it into functional code. Spending those few extra hours allowed me to present creative layout alternatives, showcasing both my speed as an engineer and my passion for creating a seamless candidate user experience that worked hand-in-hand with their corporate site.
 
-Check out the [Figma design](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=16-82&m=dev&t=Tx32m6sglf9u9eJr-1) and [Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1) or [view the project](https://doylesee.github.io/gtrcntr/).
+Check out the [Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=0-1&m=dev&t=L0NLAE28NzADuqFX-1) and [Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1) or [view the project](https://doylesee.github.io/gtrcntr/).
