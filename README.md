@@ -5,12 +5,12 @@
 <b>Tools:</b>     Figma, Liquid, HTML5, CSS3, JS/jQuery, Foundation
 </pre>
 
-**[Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=0-1&m=dev&t=L0NLAE28NzADuqFX-1)**
-&nbsp;&nbsp;
-**[Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1)**
-&nbsp;&nbsp;
-**[View Project](https://doylesee.github.io/gtrcntr/)**
-<br /><br />
+### Table of Contents
+* [The Implementation](#implementation)
+* [Results](#results)
+* [Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=0-1&m=dev&t=L0NLAE28NzADuqFX-1) / [Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1)
+* [View Project](https://doylesee.github.io/gtrcntr)
+<br />
 
 <a href="https://doylesee.github.io/gtrcntr/">
   <img src="screenshot.jpg" alt="" width="100%">
