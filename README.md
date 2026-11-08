@@ -6,7 +6,7 @@
 </pre>
 
 ### Table of Contents
-* [The Implementation](#implementation)
+* [Implementation](#implementation)
 * [Results](#results)
 * [Figma Dev](https://www.figma.com/design/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=0-1&m=dev&t=L0NLAE28NzADuqFX-1) / [Figma Prototype](https://www.figma.com/proto/eajqdqHmm8oaHK8X083YvY/Guitar-Center?node-id=81-595&t=epZAbZBAuFjcusno-1)
 * [View Project](https://doylesee.github.io/gtrcntr)
